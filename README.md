@@ -24,8 +24,9 @@ Therefore, this project aims to develop a custom sales dashboard using Power BI,
 
 - #### Program Execution Flow Chart -
   Let's assume fancy names for AtliQ teams
-  - IT Team: Falcons
-  - Data Analytics Team: Data Masters
+  - Falcons: Software Engineers
+  - Data Masters: Data Analytics
+  - Data Miners: Data Engineers
     
   <img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/blob/main/photos/Program%20execution%20FlowChart.jpg">
 
