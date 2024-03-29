@@ -24,7 +24,7 @@ and success criteria  of our project.
 
 - #### Program Execution Flow Chart -
 
-<img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/tree/main/photos">
+<img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/blob/main/photos/Program%20execution%20FlowChart.jpg">
 
 
 
