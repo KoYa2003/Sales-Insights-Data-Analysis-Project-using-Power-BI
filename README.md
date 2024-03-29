@@ -23,7 +23,10 @@ Therefore, this project aims to develop a custom sales dashboard using Power BI,
   <img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/blob/main/photos/AIMS%20grid%20sales%20insights.jpg">
 
 - #### Program Execution Flow Chart -
-
+  Let's assume fancy names for AtliQ teams
+  - IT Team: Falcons
+  - Data Analytics Team: Data Masters
+    
   <img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/blob/main/photos/Program%20execution%20FlowChart.jpg">
 
 
