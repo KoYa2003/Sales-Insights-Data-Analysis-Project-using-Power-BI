@@ -17,14 +17,14 @@ Therefore, this project aims to develop a custom sales dashboard using Power BI,
 
 - #### Project Planning using AIMS Grid -
 
-By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
-and success criteria  of our project.
+  By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
+  and success criteria  of our project.
 
-<img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/blob/main/photos/AIMS%20grid%20sales%20insights.jpg">
+  <img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/blob/main/photos/AIMS%20grid%20sales%20insights.jpg">
 
 - #### Program Execution Flow Chart -
 
-<img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/blob/main/photos/Program%20execution%20FlowChart.jpg">
+  <img src = "https://github.com/KoYa2003/Sales-Insights-Data-Analysis-Project-using-Power-BI/blob/main/photos/Program%20execution%20FlowChart.jpg">
 
 
 
